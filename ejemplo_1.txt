@@ -1,3 +1,5 @@
 Hola y bienvenidos a la clase.
 
 Espero que aprenda muy bien a usar Git para poderlo aplicar en el ciclo y en futuros trabajos.
+
+Estos cambios se realizaron desde la rama development. 
